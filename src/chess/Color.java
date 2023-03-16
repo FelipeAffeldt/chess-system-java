@@ -6,7 +6,7 @@ package chess;
  * @author Felipe
  */
 public enum Color {
-    BALCK,
+    BLACK,
     WHITE;
     
 }
