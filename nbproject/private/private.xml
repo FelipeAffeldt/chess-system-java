@@ -4,11 +4,8 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/application/Program.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/chess/ChessPosition.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/chess/ChessException.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/chess/ChessMatch.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/boardgame/Board.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/application/UI.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/chess/pieces/Rook.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Chess-system/src/chess/pieces/King.java</file>
         </group>
     </open-files>
 </project-private>
